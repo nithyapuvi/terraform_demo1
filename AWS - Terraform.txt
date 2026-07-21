@@ -1,0 +1,20 @@
+AWS - Terraform
+install aws CLI 
+install Terraform
+Use Visual studio code
+
+Using visual studio code terminal 
+aws configure (give credentials- now connction is ready)
+
+take code from terraform registry what ever resorces want to create
+
+3 steps to Run 
+terraform fmt (formate the code- optional)
+
+1.terraform init
+ terraform validate (any syntax or formate error fixed)
+2.terraform plan
+3.terraform apply
+
+After terraform apply command executed Terraform state file is created.
+And also all resources are created.
