@@ -1,0 +1,23 @@
+install git
+configure : git config --global user.name " gitusername "
+            git config --global user.emal " email address"
+
+other commands
+    
+    git clone (Path of the githhub repositotry)
+
+    Any modification --> add --> commit --> push
+    git add (file name)-( this add the new file to )
+    git add . ( . represents all file created so far)
+    git commit -m "message"
+    git status (this shows all the changes)
+    git push origin main (This one push all changes ti git hub )
+    git init (  )
+
+delete file
+    git add filename
+    git commit -m " message" 
+    gir status
+    git push origin main
+
+    git pull  ( all changes will ne reflected)
