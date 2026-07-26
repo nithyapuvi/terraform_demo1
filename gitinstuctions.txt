@@ -24,5 +24,6 @@ new branch :
     git pull  ( all changes will be reflected)
     
     git branch -a (shows all branches in main)
-    git pull 
+    git checkout -b branch name ( create new branch)        
     git checkout branch name ( change branch)
+    git pull        
