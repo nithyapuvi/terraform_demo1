@@ -1,1 +1,10 @@
-test test
+Project: AWS Infrastructure Automation using Terraform
+Technologies: AWS, Terraform, EC2, VPC, ALB, Auto Scaling, RDS, S3, CloudWatch, GitHub Actions
+
+Designed and deployed a highly available three-tier AWS architecture using Terraform.
+Automated provisioning of VPC, subnets, security groups, EC2 instances, ALB, and RDS.
+Implemented Infrastructure as Code (IaC) with reusable Terraform modules.
+Configured S3 remote state management and DynamoDB state locking.
+Enabled Auto Scaling and Load Balancing for high availability and fault tolerance.
+Integrated CI/CD pipeline using GitHub Actions for automated infrastructure deployments.
+Implemented monitoring and logging using Amazon CloudWatch.
