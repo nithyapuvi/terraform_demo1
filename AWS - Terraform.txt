@@ -9,10 +9,10 @@ aws configure (give credentials- now connction is ready)
 take code from terraform registry what ever resorces want to create
 
 3 steps to Run 
-terraform fmt (formate the code- optional)
+terraform fmt (format the code- optional)
 
 1.terraform init
- terraform validate (any syntax or formate error fixed)
+ terraform validate (any syntax or format error fixed)
 2.terraform plan
 3.terraform apply
 

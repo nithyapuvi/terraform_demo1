@@ -1,0 +1,29 @@
+install git
+configure : git config --global user.name " gitusername "
+            git config --global user.emal " email address"
+
+other commands
+    
+    git clone (Path of the githhub repositotry)
+
+    Any modification --> add --> commit --> push
+    git add (file name)-( this add the new file to )
+    git add . ( . represents all file created so far)
+    git commit -m "message"
+    git status (this shows all the changes)
+    git push origin main (This one push all changes to git hub )
+    git init (  )
+
+delete file
+    git add filename
+    git commit -m " message" 
+    gir status
+    git push origin main
+new branch :
+    
+    git pull  ( all changes will be reflected)
+    
+    git branch -a (shows all branches in main)
+    git checkout -b branch name ( create new branch)        
+    git checkout branch name ( change branch)
+    git pull        
